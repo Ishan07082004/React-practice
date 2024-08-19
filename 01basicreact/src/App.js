@@ -1,6 +1,11 @@
+import Chai from './chai';
+
 function App() {
   return (
-    <h1>Hanji Kidda Saare Janne</h1>
+    <>
+      <Chai/>
+      <h1>Hanji Kidda Saare Janne</h1>
+    </>
   );
 }
 

@@ -1,7 +1,13 @@
+import Chai from "./Chai.jsx"
+
 function App() {
 
   return (
-    <h1>Hello mfs | IV</h1>
+    <>
+      <Chai/>
+      <h1>Reacting to Chai</h1>
+      <p>testing my chai</p>
+    </>
   )
 }
 
